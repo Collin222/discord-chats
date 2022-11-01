@@ -10,7 +10,6 @@ declare namespace NodeJS {
 		EMAIL: string;
 		EMAIL_PASSWORD: string;
 		IMAP_HOST: string;
-		IMAP_TLS?: string;
 		DOMAIN: string;
 		PORT?: string;
 		HEALTH_CHECK_ROUTE?: '1' | '0';
