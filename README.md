@@ -1,5 +1,5 @@
 # discord-chats
-A Discord Bot that brings email conversations to Discord!
+A Discord Bot that brings email conversations and external chats to Discord!
 
-# Status of this Project
-This project is currently under development and does not have a stable release.
+## ℹ️ Status of this Project
+This project is currently under development by [@Collin222](https://github.com/Collin222).
